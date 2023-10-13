@@ -41,7 +41,7 @@ Average age = (SUM('HR data'[Age])/SUM('HR data'[Employee Count]))
 
 ### DASHBOARD
 
-![Model](Paste_link_here)
+![DASHBOARD](https://github.com/Lexies799/HR-Analystics-Dashboard-Power-bi/commit/049e829f41ff7641ad6677208c0c82ed508a95f6)
 
 
 
