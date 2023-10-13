@@ -39,6 +39,13 @@ Attrition Rate = sum('HR data'[Attrition Sum])/sum('HR data'[Employee Count])
 Average age = (SUM('HR data'[Age])/SUM('HR data'[Employee Count]))
 
 
+### DASHBOARD
+
+![Model](Paste_link_here)
+
+
+
+
 ### Results/Findings
 The analysis results are summarized as follows:
 
